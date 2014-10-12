@@ -1,4 +1,4 @@
-*"And yes, it wasn’t easy to break our comfortable habits and start to have three meetings a day for around two weeks, instead of dilly-dallying in front of a computer for the whole day... but we did it. We put our introversive natures aside and fought for the sake of the people who trust us - our users."* (UXPin CEO Marcin Treder on [Creative Bloq](http://www.creativebloq.com/netmag/ux-design-start-ups-get-know-your-users-10126004))
+
 
 # User-centered design
 
@@ -12,6 +12,7 @@ There are no statistics on how many products could have acquired greatness but *
 | -- |
 | User-centered design can be characterized as a multi-stage problem solving process that not only requires designers to analyse and foresee how users are likely to use a product, but also to test the validity of their assumptions with regard to user behaviour in real world tests with actual users. ... The chief difference from other product design philosophies is that user-centered design tries to optimize the product around how users can, want, or need to use the product, rather than forcing the users to change their behavior to accommodate the product. |
 
+___
 
 
 ## User experience first
@@ -31,10 +32,24 @@ The diagram shows the disciplines that are involved in enabling awesome user exp
 | Customers favor the higher ground clearance and better view afforded by a higher seating position in sport utility vehicles. But that comes with a higher loading lip of the trunk – good for small items but not for loading large or heavy items. Lowering the load-in height requires setting priorities based on evidence: Are our customers loading small or large items? What's the impact on ground clearance in rough terrain? This example alone opens three brand-defining product usages and customer segments: lifestyle, city transport, and off-road transport. Addressing the needs of customers and setting priorities defines not just the product but the entire brand. |
 
 
+| | | | | | | | | | |
+| -- |:--:| -- |:--:| -- |:--:| -- |:--:| -- | -- |
+| | | | | | | | | | |
+| |**function**| | | |**beauty** | | | | |
+| | | | | | | | | | |
+| |**performance**| |**`+`**| |**emotion**| |**`=`**| |**best user experience**|
+| | | | | | | | | | |
+| |**ease of use**| | | |**meaning**| | | | |
+| | | | | | | | | | | |
+
+
+
 | RECOMMENDED |
 | -- |
 | *[Mental models](http://rosenfeldmedia.com/books/mental-models/)* (by Indy Young)|
 | "There is no single methodology for creating the perfect product – but you can increase your odds. One of the best ways is to understand users' reasons for doing things. *Mental Models* gives you the tools to help you grasp, and design for, those reasons. Adaptive Path co-founder Indi Young has written a roll-up-your-sleeves book for designers, managers, and anyone else interested in making design strategic, and successful." |
+
+___
 
 ## Information architecture
 
@@ -70,6 +85,7 @@ Depending on the requirements identified in question 4, users can co-create how 
 | *[Designing for Mobile: Information Architecture](http://www.uxbooth.com/articles/designing-for-mobile-part-1-information-architecture)* (by Elaine McVicar)|
 | "Mobile users that choose to view content in their browser are best served with either a mobile-specific site ... or a responsive site ... Those who choose to install an application on their phone either receive a native app(lication) or a hybrid app ... While the structure of a responsive site may follow more “standard” patterns, native apps, for example, often employ navigational structures that are tab-based ... let’s take a look at some of the most popular patterns: Hierarchy, Hub & spoke, Nested doll, Tabbed view, Bento box and Filtered view." |
 
+___
 
 ## Software architecture
 
@@ -87,6 +103,7 @@ Software developers can reuse and combine FLEXT elements, customize their appear
 | [*Architecture of a modern web application*](http://www.codeproject.com/Articles/645753/Challenges-solutions-Architecture-of-a-Modern-Web) (by Syed Rafey Husain)|
 | "Modern web applications could easily be decomposed into two distinct code bases. One that runs on server infrastructure and the other that runs on end user devices ... This leaves web application development teams in making a variety of decisions regarding application compatibility, performance, usability and maintainability ... Popular end user devices like laptops, tablets and smart phones could run two different kinds of web applications: a responsive HTML website ... or a native web application ... Native apps are built using: 1. Device SDK (e.g., iOS SDK, Android SDK, Windows Phone SDK); 2. Cross platform SDKs PhoneGap, Flex, or Xamarin; 3. HTML5 and JavaScript based hybrid frameworks ... In this article [Part 3] we will learn to write mobile apps using native, hybrid, and responsive development techniques for popular device platforms ... "|
 
+___
 
 ## Industrial design
 
@@ -99,7 +116,7 @@ FLEXT is derived from year-long user involvement and living labs with 15 end use
 | [*Industrial design*](http://en.wikipedia.org/wiki/Industrial_design) (by Wikipedia)|
 | "Industrial design is the use of both applied art and applied science to improve the aesthetics, design, ergonomics, functionality, and/or usability of a product, and it may also be used to improve the product's marketability and even production. The role of an industrial designer is to create and execute design solutions for problems of form, usability, physical ergonomics, marketing, brand development, and sales."|
 
-
+___
 
 ## Interaction design
 
