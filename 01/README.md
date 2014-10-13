@@ -28,6 +28,36 @@ ___
 
 <br><br><br>
 
+## User experience
+
+**Design?** The idea of *designing* someone’s experience is quite ambitious. An experience is one of the most personal moments based on endless impressions and external factors. A better analogy is orchestrating the parts that create awesome experiences when they play together. The product provides *affordances for great experiences*.
+
+<br>
+
+> User Experience (UX) involves a person’s behaviors, attitudes, and emotions about using a particular product, system or service. *[Wikipedia](http://en.wikipedia.org/wiki/User_experience)*
+
+<br>
+
+The user experience designer orchestrates the experts who contribute the best of their skills to create something bigger than the parts. The analogy to classical music fits well. Smaller ensembles can jam the parts together without someone directing. But a certain size calls for some form of coordination to create something greater out of the parts.
+
+<br>
+
+![](../media/suffer-2008-the-disciplines-of-user-experience)
+
+Figure: [Disciplines of user experience](http://www.kickerstudio.com/2008/12/the-disciplines-of-user-experience)
+
+<br>
+
+___
+
+[**PRODUCTS CREATE EXPERIENCES**](http://www.kickerstudio.com/2008/09/creating-products-not-experiences/) (Dan Suffer)
+
+‘Experience design’ is often just a fancy term for what used to be called ‘creative direction’ meaning oversight to make sure all the pieces of a product fit together ... I agree with Nokia’s Design Manifesto when it says, “For a human being the product is not an end in itself but the gateway to a plethora of experiences.” It’s the plethora of experiences that is so important. Design for a single experience (or a single user type) is limiting and can even be crippling for a product. (Which is one reason why personas can be a dangerous crutch.)
+
+___
+
+<br><br><br>
+
 ## Information architecture
 
 
@@ -123,28 +153,6 @@ Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy 
 <br>
 
 > Interaction design ... [is] the practice of designing interactive digital products, environments, systems, and services. *[Wikipedia](http://en.wikipedia.org/wiki/Interaction_design)*
-
-<br>
-
-Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy sensibus. Ne vix hendrerit complectitur disputationi. Tempor alterum ancillae ex his, noster mandamus no eam. At nonumes verterem efficiantur mei. Usu te noluisse ocurreret, an his detracto recteque. Ex nec ubique pertinax disputando, eos ut mentitum adipisci delicata, noluisse adversarium vis et.
-
-<br>
-
-___
-
-RECOMMENDED
-
-___
-
-<br><br><br>
-
-## Section 2
-
-Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy sensibus. Ne vix hendrerit complectitur disputationi. Tempor alterum ancillae ex his, noster mandamus no eam. At nonumes verterem efficiantur mei. Usu te noluisse ocurreret, an his detracto recteque. Ex nec ubique pertinax disputando, eos ut mentitum adipisci delicata, noluisse adversarium vis et.
-
-<br>
-
-> Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy sensibus. *[Wikipedia](http://en.wikipedia.org/wiki/Information_architecture)*
 
 <br>
 
