@@ -15,10 +15,7 @@ ___
 
 **TABLE OF CONTENT**
 
-[Overview](README.md)
-
 [Chapter 1](/01/README.md)
-
 ___
 
 <br><br>

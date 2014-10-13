@@ -1,12 +1,12 @@
+
+[< Overview ](../README.md)
+
 <br><br><br><br><br><br><br><br>
 > We put our introversive natures aside and fought for the sake of the people who trust us – our users. *[UXPin CEO Marcin Treder](http://www.creativebloq.com/netmag/ux-design-start-ups-get-know-your-users-10126004)*
 
 <br><br>
 
 # User-centered design
-
-[link](../README.md)
-
 
 Consumers are becoming co-producers and stakeholders in the products they are going to *love*. Product designers take these heteregenous and sometimes conflicting needs and anticipate how these interact in daily use. They **design the product to meet user needs** – rather than finding a use for technology.
 
@@ -69,7 +69,8 @@ ___
 
 <br>
 
-**Information needs.** To identify the information needs of potential users, for example, doing brainstorming and an affinity diagram (see below). The first point to brainstorm is, of course:
+**Information needs.** Brainstorming and affinity diagrams (see below) are good for identify the information needs of potential users. The first point to brainstorm is, of course:
+
 1. *Who are the users?* Typically, there are different kinds or groups of users that could benefit from the app.
 
  (The following questions are answered for each of the user groups.)
@@ -90,7 +91,9 @@ ___
 
 [**INFORMATION ARCHITECTURE FOR MOBILE**](http://www.uxbooth.com/articles/designing-for-mobile-part-1-information-architecture) (Elaine McVicar)
 
-Mobile users that choose to view content in their browser are best served with either a mobile-specific site ... or a responsive site ... Those who choose to install an application on their phone either receive a native app(lication) or a hybrid app ... While the structure of a responsive site may follow more ‘standard’ patterns, native apps, for example, often employ navigational structures that are tab-based ... some of the most popular patterns [are]: Hierarchy, Hub & spoke, Nested doll, Tabbed view, Bento box and Filtered view.
+Mobile users that choose to view content in their browser are best served with either a mobile-specific site ... or a responsive site ... Those who choose to install an application on their phone either receive a native app(lication) or a hybrid app ...
+
+While the structure of a responsive site may follow more ‘standard’ patterns, native apps, for example, often employ navigational structures that are tab-based ... some of the most popular patterns [are]: Hierarchy, Hub & spoke, Nested doll, Tabbed view, Bento box and Filtered view.
 
 ___
 
@@ -98,7 +101,7 @@ ___
 
 ## Software architecture
 
-**Decision, decision.** With user groups and their information needs defined, the question is whether to go native or with a cross-platform framework. FLEXT focuses on a few essential IO elements, such as file browser, menus, widgets, and notifications, providing *consistent behavior* across major platforms on all web-enabled devices.
+**Decision, decision.** With user groups and their information needs defined, the question is whether to go native or with a cross-platform framework. FLEXT focuses on a few core IO elements, such as file browser, menus, widgets, and notifications, providing *consistent behavior* across major platforms on all web-enabled devices.
 
 <br>
 
@@ -124,7 +127,7 @@ ___
 
 ## Industrial design
 
-**The framework.** FLEXT is designed to optimize the ergonomics, functionality, usability, and production of applications. Its IO elements are *ergonomically placed* on the screen, they are *multi-functional* while providing *consistent behavior* to optimize usability, and their *built-in features* and *adaptive form factor* couple custimization and production efficiency.
+**The framework.** FLEXT is essentially a 2-pane layout with its scrollable core IO elements in the smaller pane leaving the large pane for content. Its IO elements are *ergonomically placed* on the screen, they are *multi-functional* while providing *consistent behavior* to optimize usability, and their *built-in features* and *adaptive form factor* couple custimization and production efficiency.
 
 <br>
 
@@ -148,7 +151,7 @@ ___
 
 ## Interaction design
 
-Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy sensibus. Ne vix hendrerit complectitur disputationi. Tempor alterum ancillae ex his, noster mandamus no eam. At nonumes verterem efficiantur mei. Usu te noluisse ocurreret, an his detracto recteque. Ex nec ubique pertinax disputando, eos ut mentitum adipisci delicata, noluisse adversarium vis et.
+**All about flow.** With a working knowledge of FLEXT and of the app’s information and software architecture, composing compelling workflows is next. Information architecture and interaction design work together to guide the user through content (and tasks). FLEXT IO elements are fully customizable while leaving the large pane for what matters most: *content, content, content*.
 
 <br>
 
@@ -156,79 +159,43 @@ Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy 
 
 <br>
 
-Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy sensibus. Ne vix hendrerit complectitur disputationi. Tempor alterum ancillae ex his, noster mandamus no eam. At nonumes verterem efficiantur mei. Usu te noluisse ocurreret, an his detracto recteque. Ex nec ubique pertinax disputando, eos ut mentitum adipisci delicata, noluisse adversarium vis et.
+**Elements and sequence.** Interaction designers enjoy great freedom to differentiate their app when it comes to workflows. They can arrange and compose IO elements on any side of the screen, have expanding, side or tabbed menus, and create simple or multi-level interaction sequences for user tasks – with complete control over the content pane.
 
 <br>
 
 ___
 
-RECOMMENDED
+[**INTERACTION DESIGN FOR MOBILE**](http://www.uxbooth.com/articles/designing-for-mobile-part-2-interaction-design) (Elaine McVicar)
 
-___
+Mobile devices give designers less space to add menus and navigational cues than they might be used to on a desktop computer. Combined with environmental factors – such as poor viewing conditions and/or distractions – it’s often difficult for us to provide users with a good grasp of our content’s structure.
 
-<br><br><br>
-
-## Section 2
-
-Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy sensibus. Ne vix hendrerit complectitur disputationi. Tempor alterum ancillae ex his, noster mandamus no eam. At nonumes verterem efficiantur mei. Usu te noluisse ocurreret, an his detracto recteque. Ex nec ubique pertinax disputando, eos ut mentitum adipisci delicata, noluisse adversarium vis et.
-
-<br>
-
-> Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy sensibus. *[Wikipedia](http://en.wikipedia.org/wiki/Information_architecture)*
-
-<br>
-
-Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy sensibus. Ne vix hendrerit complectitur disputationi. Tempor alterum ancillae ex his, noster mandamus no eam. At nonumes verterem efficiantur mei. Usu te noluisse ocurreret, an his detracto recteque. Ex nec ubique pertinax disputando, eos ut mentitum adipisci delicata, noluisse adversarium vis et.
-
-<br>
-
-___
-
-RECOMMENDED
+Main (or ‘primary’) navigation is a visual manifestation of our website (or application)’s information architecture. Here are a few options to consider: Expanding Menu, Side menu, Tabbed menu, Hub and spoke menu ... Pressing links to activate content facilitates flow, making it easy for the user to quickly select content with one hand ... [e.g.] Press to move forward, Coverflow, Flip over / Peel back.
 
 ___
 
 <br><br><br>
 
-## Section 2
+## Visual design
 
-Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy sensibus. Ne vix hendrerit complectitur disputationi. Tempor alterum ancillae ex his, noster mandamus no eam. At nonumes verterem efficiantur mei. Usu te noluisse ocurreret, an his detracto recteque. Ex nec ubique pertinax disputando, eos ut mentitum adipisci delicata, noluisse adversarium vis et.
-
-<br>
-
-> Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy sensibus. *[Wikipedia](http://en.wikipedia.org/wiki/Information_architecture)*
+**Dressing up.** Information and software architecture define structure while interaction design defines process. Visual design dresses the skeleton up in a way that supports the intelligibility of structure and process. It includes the layout of the content pane, the appearance of IO elements, and the sensible use of color.
 
 <br>
 
-Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy sensibus. Ne vix hendrerit complectitur disputationi. Tempor alterum ancillae ex his, noster mandamus no eam. At nonumes verterem efficiantur mei. Usu te noluisse ocurreret, an his detracto recteque. Ex nec ubique pertinax disputando, eos ut mentitum adipisci delicata, noluisse adversarium vis et.
+> Visual design ... represents the aesthetics or look-and-feel of the front end of any user interface. *[Wikipedia](http://en.wikipedia.org/wiki/User_experience_design#Visual_design)*
 
 <br>
 
-___
-
-RECOMMENDED
-
-___
-
-<br><br><br>
-
-## Section 2
-
-Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy sensibus. Ne vix hendrerit complectitur disputationi. Tempor alterum ancillae ex his, noster mandamus no eam. At nonumes verterem efficiantur mei. Usu te noluisse ocurreret, an his detracto recteque. Ex nec ubique pertinax disputando, eos ut mentitum adipisci delicata, noluisse adversarium vis et.
-
-<br>
-
-> Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy sensibus. *[Wikipedia](http://en.wikipedia.org/wiki/Information_architecture)*
-
-<br>
-
-Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy sensibus. Ne vix hendrerit complectitur disputationi. Tempor alterum ancillae ex his, noster mandamus no eam. At nonumes verterem efficiantur mei. Usu te noluisse ocurreret, an his detracto recteque. Ex nec ubique pertinax disputando, eos ut mentitum adipisci delicata, noluisse adversarium vis et.
+**Layout, style, imagery.** Visual designers enjoy the greatest freedom to differentiate their app when it comes to look-and-feel. They have complete control over the content pane and can customize almost any aspect of the the control pane including the appearance and form factor of FLEXT IO elements. Default values and themes help bootstrapping and reusing styles quickly.
 
 <br>
 
 ___
 
-RECOMMENDED
+[**VISUAL DESIGN FOR MOBILE**](http://www.uxbooth.com/articles/designing-mobile-part-3-visual-design) (Elaine McVicar)
+
+The touch screen interface on a mobile device also means the visual design must reinforce the interactions; in other words, sizing and placement of elements should ensure ease of use, and indicate the importance and correlation between actions ...
+
+The human brain interprets visual information much faster than words, meaning it can be incredibly valuable to use visuals and imagery to enhance communication. Good visual styling will add value, support the purpose of the content or interactions, and improve the overall user experience (for mobile and desktop).
 
 ___
 
