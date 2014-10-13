@@ -42,9 +42,9 @@ The user experience designer orchestrates the experts who contribute the best of
 
 <br>
 
-![](../media/suffer-2008-the-disciplines-of-user-experience)
+![](suffer-2008-the-disciplines-of-user-experience.jpg)
 
-Figure: [Disciplines of user experience](http://www.kickerstudio.com/2008/12/the-disciplines-of-user-experience)
+**Figure**: [Disciplines of user experience](http://www.kickerstudio.com/2008/12/the-disciplines-of-user-experience)
 
 <br>
 
