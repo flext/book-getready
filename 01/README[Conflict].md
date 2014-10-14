@@ -2,7 +2,7 @@
 [<<< Overview ](../README.md)
 
 <br><br><br><br><br><br><br><br>
-> “We put our introversive natures aside and fought for the sake of the people who trust us – our users.” *[UXPin CEO Marcin Treder](http://www.creativebloq.com/netmag/ux-design-start-ups-get-know-your-users-10126004)*
+> We put our introversive natures aside and fought for the sake of the people who trust us – our users. *[UXPin CEO Marcin Treder](http://www.creativebloq.com/netmag/ux-design-start-ups-get-know-your-users-10126004)*
 
 <br><br>
 
@@ -18,15 +18,11 @@ There are no statistics on how many products could have acquired greatness yet *
 
 ___
 
-[**KNOW USERS AND THEIR TASKS**](http://hcibib.org/tcuid/chap-2.html) (Clayton Lewis & John Rieman)
+**KNOW THY CUSTOMER**
 
-There was a startup here ... but they didn’t ... figure out *exactly who* would use the system to do *exactly what* ... [and] when the time came to line up test users ... there were no takers! Not only were there no people waiting to fork out cash for the tool, there weren’t even people who would take it for *nothing*.
+Customers favor ground clearance and better view afforded by high seating positions in sport utility vehicles. That comes with a higher loading lip of the trunk – good for small items but not for loading large or heavy items. Lowering the lip is an option but requires evidence: Are customers loading small or large items? What’s the impact on ground clearance in rough terrain?
 
-The first step is to find some real people who would be potential users of what you are going to build. If you can’t find any you need to worry a lot. If you can’t find them now, where will they come from when it’s time to buy? When you have found some, get them to spend some time with you discussing what they do and how your system might fit in.
-
-Once you have some people to talk with, develop *concrete, detailed examples* of tasks they perform or want to perform that your system should support ... [describe]
-*what* the user wants to do but do not say *how* the user would do it, ... [be] very specific, ... describe a complete job, ... say who the users are.
-
+Answers to these questions affect much more than the loading lip. Targeting customers who mostly load small or light items, such as shopping bags, is fundamentally different from those who load large or heavy items, such as jackhammers. A seemingly trivial feature becomes a brand-defining moment not just for the product but for the product portfolio and the entire company.
 
 ___
 
@@ -131,9 +127,7 @@ ___
 
 ## Industrial design
 
-**The framework.** FLEXT is a 2-pane layout with scrollable IO elements in a small (control) pane and a freely designable content pane.
-
-FLEXT IO elements can be *ergonomically placed* on the screen and *convey hierarchy* to enable a flow through content and actions. They are *multi-functional* and usable for data *input* (e.g. buttons, text field) and *output* (e.g. menu, navigation). Their *adaptive form factor* allow customization while providing *consistent behavior* for high usability and production efficiency.
+**The framework.** FLEXT is a 2-pane layout with scrollable core IO elements in one (control) pane and content in the large pane. Its IO elements are *ergonomically placed* on the screen and are *multi-functional* while providing *consistent behavior* to optimize usability, and their *built-in features* and *adaptive form factor* couple custimization and production efficiency.
 
 <br>
 
