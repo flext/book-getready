@@ -18,19 +18,21 @@ There are no statistics on how many products could have acquired greatness yet *
 
 ___
 
-[**KNOW USERS AND THEIR TASKS**](http://hcibib.org/tcuid/chap-2.html) (Clayton Lewis & John Rieman)
+**CHAPTER OVERVIEW**
 
-There was a startup here ... but they didn’t ... figure out *exactly who* would use the system to do *exactly what* ... [and] when the time came to line up test users ... there were no takers! Not only were there no people waiting to fork out cash for the tool, there weren’t even people who would take it for *nothing*.
+[User experience](#user-experience)
 
-The first step is to find some real people who would be potential users of what you are going to build. If you can’t find any you need to worry a lot. If you can’t find them now, where will they come from when it’s time to buy? When you have found some, get them to spend some time with you discussing what they do and how your system might fit in.
+[Information architecture](#information-architecture)
 
-Once you have some people to talk with, develop *concrete, detailed examples* of tasks they perform or want to perform that your system should support ... [describe]
-*what* the user wants to do but do not say *how* the user would do it, ... [be] very specific, ... describe a complete job, ... say who the users are.
+[Software architecture](#software-architecture)
 
+[Industrial design](#industrial-design)
+
+[Interaction design](#interaction-design)
+
+[Visual design](#visual-design)
 
 ___
-
-[Back to top](#user-centered-design)
 
 <br><br><br>
 
@@ -56,9 +58,15 @@ The user experience designer orchestrates the experts who contribute the best of
 
 ___
 
-[**PRODUCTS CREATE EXPERIENCES**](http://www.kickerstudio.com/2008/09/creating-products-not-experiences/) (Dan Suffer)
+[**KNOW USERS AND THEIR TASKS**](http://hcibib.org/tcuid/chap-2.html) (Clayton Lewis & John Rieman)
 
-‘Experience design’ is often just a fancy term for what used to be called ‘creative direction’ meaning oversight to make sure all the pieces of a product fit together ... I agree with Nokia’s Design Manifesto when it says, “For a human being the product is not an end in itself but the gateway to a plethora of experiences.” It’s the plethora of experiences that is so important. Design for a single experience (or a single user type) is limiting and can even be crippling for a product. (Which is one reason why personas can be a dangerous crutch.)
+There was a startup here ... but they didn’t ... figure out *exactly who* would use the system to do *exactly what* ... [and] when the time came to line up test users ... there were no takers! Not only were there no people waiting to fork out cash for the tool, there weren’t even people who would take it for *nothing*.
+
+The first step is to find some real people who would be potential users of what you are going to build. If you can’t find any you need to worry a lot. If you can’t find them now, where will they come from when it’s time to buy? When you have found some, get them to spend some time with you discussing what they do and how your system might fit in.
+
+Once you have some people to talk with, develop *concrete, detailed examples* of tasks they perform or want to perform that your system should support ... [describe]
+*what* the user wants to do but do not say *how* the user would do it, ... [be] very specific, ... describe a complete job, ... say who the users are.
+
 
 ___
 
@@ -67,7 +75,6 @@ ___
 <br><br><br>
 
 ## Information architecture
-
 
 **Information matters**. From the simplest messaging app to the greatest intranet, defining the information resources and how they are easily found matters most. And because it matters most, the user is involved when defining what information addresses her need and how she finds it.
 
