@@ -146,9 +146,7 @@ ___
 
 ## Industrial design
 
-**The framework.** FLEXT is a 2-pane layout with scrollable IO elements in a small (control) pane and a freely designable content pane.
-
-FLEXT IO elements can be *ergonomically placed* on the screen and *convey hierarchy* to enable a flow through content and actions. They are *multi-functional* and usable for data *input* (e.g. buttons, text field) and *output* (e.g. menu, navigation). Their *adaptive form factor* allow customization while providing *consistent behavior* for high usability and production efficiency.
+**The framework.** 
 
 <br>
 
@@ -166,7 +164,7 @@ ___
 
 The most common interface design mistakes I see are overstatements of visual contrast ... The problem is when every element on a screen is shouting to get noticed ­no one gets heard. As a user, you can recognize these types of designs because your eyes bounce from one element to the next. There is no *hierarchy* and as a result no flow through the content and actions on the screen.
 
-Similarly, many designers will over emphasize the differences between individual interface elements through multiple visual relationships: different font, size, color, and alignment. You don’t need excess visual contrast to distinguish objects or make things findable. Think about ways to “eliminate the unnecessary so that the necessary may speak.”
+Similarly, many designers will overemphasize the differences between individual interface elements through multiple visual relationships: different font, size, color, and alignment. You don’t need excess visual contrast to distinguish objects or make things findable. Think about ways to “eliminate the unnecessary so that the necessary may speak.”
 
 ___
 
