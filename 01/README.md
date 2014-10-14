@@ -30,6 +30,8 @@ Once you have some people to talk with, develop *concrete, detailed examples* of
 
 ___
 
+[Back to top](#user-centered-design)
+
 <br><br><br>
 
 ## User experience
@@ -59,6 +61,8 @@ ___
 ‘Experience design’ is often just a fancy term for what used to be called ‘creative direction’ meaning oversight to make sure all the pieces of a product fit together ... I agree with Nokia’s Design Manifesto when it says, “For a human being the product is not an end in itself but the gateway to a plethora of experiences.” It’s the plethora of experiences that is so important. Design for a single experience (or a single user type) is limiting and can even be crippling for a product. (Which is one reason why personas can be a dangerous crutch.)
 
 ___
+
+[Back to top](#user-centered-design)
 
 <br><br><br>
 
@@ -101,6 +105,8 @@ While the structure of a responsive site may follow more ‘standard’ patterns
 
 ___
 
+[Back to top](#user-centered-design)
+
 <br><br><br>
 
 ## Software architecture
@@ -126,6 +132,8 @@ Modern web applications could easily be decomposed into two distinct code bases.
 Popular end user devices like laptops, tablets and smart phones could run two different kinds of web applications: a responsive HTML website ... or a *native* web application ... Native apps are built using: 1. Device SDK (e.g., iOS SDK, Android SDK, Windows Phone SDK); 2. Cross platform SDKs PhoneGap, Flex, or Xamarin; 3. HTML5 and JavaScript based hybrid frameworks.
 
 ___
+
+[Back to top](#user-centered-design)
 
 <br><br><br>
 
@@ -155,6 +163,8 @@ Similarly, many designers will over emphasize the differences between individual
 
 ___
 
+[Back to top](#user-centered-design)
+
 <br><br><br>
 
 ## Interaction design
@@ -181,6 +191,8 @@ Main (or ‘primary’) navigation is a visual manifestation of our website (or 
 
 ___
 
+[Back to top](#user-centered-design)
+
 <br><br><br>
 
 ## Visual design
@@ -206,6 +218,8 @@ The touch screen interface on a mobile device also means the visual design must 
 The human brain interprets visual information much faster than words, meaning it can be incredibly valuable to use visuals and imagery to enhance communication. Good visual styling will add value, support the purpose of the content or interactions, and improve the overall user experience (for mobile and desktop).
 
 ___
+
+[Back to top](#user-centered-design)
 
 <br><br><br>
 

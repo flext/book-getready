@@ -11,13 +11,29 @@ FLEXT enables frictionless touch-optimized workflows between installed and mobil
 
 ___
 
-**TABLE OF CONTENT**
+**CHAPTER OVERVIEW**
 
-[Overview](README.md)
+[Mobile behaviours](#mobile-behaviours)
 
-[Chapter 1](/01/README.md)
+[Content first](#content-first)
 
-[devices](#device-experiences)
+[Pivot and explore](#pivot-and-explore)
+
+[Bigger is better](#bigger-is-better)
+
+[Natural interaction](#natural-interaction)
+
+[Ergonomics of touch](#ergonomics-of-touch)
+
+[Core gestures](#core-gestures)
+
+[User input](#user-input)
+
+[Scalable media](#scalable-media)
+
+[Flexible layouts](#flexible-layouts)
+
+
 
 ___
 
@@ -43,11 +59,13 @@ RECOMMENDED
 
 ___
 
+[Back to top](#touch-optimized-design)
+
 <br><br><br>
 
 ## Content first
 
-Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy sensibus. Ne vix hendrerit complectitur disputationi. Tempor alterum ancillae ex his, noster mandamus no eam. At nonumes verterem efficiantur mei. Usu te noluisse ocurreret, an his detracto recteque. Ex nec ubique pertinax disputando, eos ut mentitum adipisci delicata, noluisse adversarium vis et.
+Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy sensibus.
 
 <br>
 
@@ -55,7 +73,7 @@ Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy 
 
 <br>
 
-Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy sensibus. Ne vix hendrerit complectitur disputationi. Tempor alterum ancillae ex his, noster mandamus no eam. At nonumes verterem efficiantur mei. Usu te noluisse ocurreret, an his detracto recteque. Ex nec ubique pertinax disputando, eos ut mentitum adipisci delicata, noluisse adversarium vis et.
+Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy sensibus.
 
 <br>
 
@@ -64,12 +82,14 @@ ___
 RECOMMENDED
 
 ___
+
+[Back to top](#touch-optimized-design)
 
 <br><br><br>
 
 ## Pivot and explore
 
-Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy sensibus. Ne vix hendrerit complectitur disputationi. Tempor alterum ancillae ex his, noster mandamus no eam. At nonumes verterem efficiantur mei. Usu te noluisse ocurreret, an his detracto recteque. Ex nec ubique pertinax disputando, eos ut mentitum adipisci delicata, noluisse adversarium vis et.
+Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy sensibus.
 
 <br>
 
@@ -77,7 +97,7 @@ Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy 
 
 <br>
 
-Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy sensibus. Ne vix hendrerit complectitur disputationi. Tempor alterum ancillae ex his, noster mandamus no eam. At nonumes verterem efficiantur mei. Usu te noluisse ocurreret, an his detracto recteque. Ex nec ubique pertinax disputando, eos ut mentitum adipisci delicata, noluisse adversarium vis et.
+Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy sensibus.
 
 <br>
 
@@ -86,12 +106,14 @@ ___
 RECOMMENDED
 
 ___
+
+[Back to top](#touch-optimized-design)
 
 <br><br><br>
 
 ## Bigger is better
 
-Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy sensibus. Ne vix hendrerit complectitur disputationi. Tempor alterum ancillae ex his, noster mandamus no eam. At nonumes verterem efficiantur mei. Usu te noluisse ocurreret, an his detracto recteque. Ex nec ubique pertinax disputando, eos ut mentitum adipisci delicata, noluisse adversarium vis et.
+Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy sensibus.
 
 <br>
 
@@ -99,7 +121,7 @@ Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy 
 
 <br>
 
-Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy sensibus. Ne vix hendrerit complectitur disputationi. Tempor alterum ancillae ex his, noster mandamus no eam. At nonumes verterem efficiantur mei. Usu te noluisse ocurreret, an his detracto recteque. Ex nec ubique pertinax disputando, eos ut mentitum adipisci delicata, noluisse adversarium vis et.
+Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy sensibus.
 
 <br>
 
@@ -109,55 +131,13 @@ RECOMMENDED
 
 ___
 
-<br><br><br>
-
-## Ergonomics of touch
-
-Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy sensibus. Ne vix hendrerit complectitur disputationi. Tempor alterum ancillae ex his, noster mandamus no eam. At nonumes verterem efficiantur mei. Usu te noluisse ocurreret, an his detracto recteque. Ex nec ubique pertinax disputando, eos ut mentitum adipisci delicata, noluisse adversarium vis et.
-
-<br>
-
-> Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy sensibus. *[Wikipedia](http://en.wikipedia.org/wiki/Information_architecture)*
-
-<br>
-
-Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy sensibus. Ne vix hendrerit complectitur disputationi. Tempor alterum ancillae ex his, noster mandamus no eam. At nonumes verterem efficiantur mei. Usu te noluisse ocurreret, an his detracto recteque. Ex nec ubique pertinax disputando, eos ut mentitum adipisci delicata, noluisse adversarium vis et.
-
-<br>
-
-___
-
-RECOMMENDED
-
-___
-
-<br><br><br>
-
-## Core gestures
-
-Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy sensibus. Ne vix hendrerit complectitur disputationi. Tempor alterum ancillae ex his, noster mandamus no eam. At nonumes verterem efficiantur mei. Usu te noluisse ocurreret, an his detracto recteque. Ex nec ubique pertinax disputando, eos ut mentitum adipisci delicata, noluisse adversarium vis et.
-
-<br>
-
-> Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy sensibus. *[Wikipedia](http://en.wikipedia.org/wiki/Information_architecture)*
-
-<br>
-
-Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy sensibus. Ne vix hendrerit complectitur disputationi. Tempor alterum ancillae ex his, noster mandamus no eam. At nonumes verterem efficiantur mei. Usu te noluisse ocurreret, an his detracto recteque. Ex nec ubique pertinax disputando, eos ut mentitum adipisci delicata, noluisse adversarium vis et.
-
-<br>
-
-___
-
-RECOMMENDED
-
-___
+[Back to top](#touch-optimized-design)
 
 <br><br><br>
 
 ## Natural interaction
 
-Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy sensibus. Ne vix hendrerit complectitur disputationi. Tempor alterum ancillae ex his, noster mandamus no eam. At nonumes verterem efficiantur mei. Usu te noluisse ocurreret, an his detracto recteque. Ex nec ubique pertinax disputando, eos ut mentitum adipisci delicata, noluisse adversarium vis et.
+Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy sensibus.
 
 <br>
 
@@ -165,7 +145,7 @@ Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy 
 
 <br>
 
-Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy sensibus. Ne vix hendrerit complectitur disputationi. Tempor alterum ancillae ex his, noster mandamus no eam. At nonumes verterem efficiantur mei. Usu te noluisse ocurreret, an his detracto recteque. Ex nec ubique pertinax disputando, eos ut mentitum adipisci delicata, noluisse adversarium vis et.
+Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy sensibus.
 
 <br>
 
@@ -174,12 +154,62 @@ ___
 RECOMMENDED
 
 ___
+
+[Back to top](#touch-optimized-design)
+
+<br><br><br>
+
+## Ergonomics of touch
+
+Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy sensibus.
+
+<br>
+
+> Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy sensibus. *[Wikipedia](http://en.wikipedia.org/wiki/Information_architecture)*
+
+<br>
+
+Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy sensibus.
+
+<br>
+
+___
+
+RECOMMENDED
+
+___
+
+[Back to top](#touch-optimized-design)
+
+<br><br><br>
+
+## Core gestures
+
+Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy sensibus.
+
+<br>
+
+> Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy sensibus. *[Wikipedia](http://en.wikipedia.org/wiki/Information_architecture)*
+
+<br>
+
+Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy sensibus.
+
+<br>
+
+___
+
+RECOMMENDED
+
+___
+
+[Back to top](#touch-optimized-design)
 
 <br><br><br>
 
 ## User input
 
-Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy sensibus. Ne vix hendrerit complectitur disputationi. Tempor alterum ancillae ex his, noster mandamus no eam. At nonumes verterem efficiantur mei. Usu te noluisse ocurreret, an his detracto recteque. Ex nec ubique pertinax disputando, eos ut mentitum adipisci delicata, noluisse adversarium vis et.
+Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy sensibus.
 
 <br>
 
@@ -187,7 +217,7 @@ Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy 
 
 <br>
 
-Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy sensibus. Ne vix hendrerit complectitur disputationi. Tempor alterum ancillae ex his, noster mandamus no eam. At nonumes verterem efficiantur mei. Usu te noluisse ocurreret, an his detracto recteque. Ex nec ubique pertinax disputando, eos ut mentitum adipisci delicata, noluisse adversarium vis et.
+Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy sensibus.
 
 <br>
 
@@ -196,12 +226,14 @@ ___
 RECOMMENDED
 
 ___
+
+[Back to top](#touch-optimized-design)
 
 <br><br><br>
 
 ## Scalable media
 
-Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy sensibus. Ne vix hendrerit complectitur disputationi. Tempor alterum ancillae ex his, noster mandamus no eam. At nonumes verterem efficiantur mei. Usu te noluisse ocurreret, an his detracto recteque. Ex nec ubique pertinax disputando, eos ut mentitum adipisci delicata, noluisse adversarium vis et.
+Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy sensibus.
 
 <br>
 
@@ -209,7 +241,7 @@ Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy 
 
 <br>
 
-Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy sensibus. Ne vix hendrerit complectitur disputationi. Tempor alterum ancillae ex his, noster mandamus no eam. At nonumes verterem efficiantur mei. Usu te noluisse ocurreret, an his detracto recteque. Ex nec ubique pertinax disputando, eos ut mentitum adipisci delicata, noluisse adversarium vis et.
+Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy sensibus.
 
 <br>
 
@@ -218,12 +250,14 @@ ___
 RECOMMENDED
 
 ___
+
+[Back to top](#touch-optimized-design)
 
 <br><br><br>
 
 ## Flexible layouts
 
-Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy sensibus. Ne vix hendrerit complectitur disputationi. Tempor alterum ancillae ex his, noster mandamus no eam. At nonumes verterem efficiantur mei. Usu te noluisse ocurreret, an his detracto recteque. Ex nec ubique pertinax disputando, eos ut mentitum adipisci delicata, noluisse adversarium vis et.
+Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy sensibus.
 
 <br>
 
@@ -231,7 +265,7 @@ Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy 
 
 <br>
 
-Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy sensibus. Ne vix hendrerit complectitur disputationi. Tempor alterum ancillae ex his, noster mandamus no eam. At nonumes verterem efficiantur mei. Usu te noluisse ocurreret, an his detracto recteque. Ex nec ubique pertinax disputando, eos ut mentitum adipisci delicata, noluisse adversarium vis et.
+Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy sensibus.
 
 <br>
 
@@ -241,26 +275,7 @@ RECOMMENDED
 
 ___
 
-<br><br><br>
-
-## Device experiences
-
-Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy sensibus. Ne vix hendrerit complectitur disputationi. Tempor alterum ancillae ex his, noster mandamus no eam. At nonumes verterem efficiantur mei. Usu te noluisse ocurreret, an his detracto recteque. Ex nec ubique pertinax disputando, eos ut mentitum adipisci delicata, noluisse adversarium vis et.
-
-<br>
-
-> Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy sensibus. *[Wikipedia](http://en.wikipedia.org/wiki/Information_architecture)*
-
-<br>
-
-Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy sensibus. Ne vix hendrerit complectitur disputationi. Tempor alterum ancillae ex his, noster mandamus no eam. At nonumes verterem efficiantur mei. Usu te noluisse ocurreret, an his detracto recteque. Ex nec ubique pertinax disputando, eos ut mentitum adipisci delicata, noluisse adversarium vis et.
-
-<br>
-
-___
-
-RECOMMENDED
-
-___
+[Back to top](#touch-optimized-design)
 
 <br><br><br>
+
