@@ -17,7 +17,7 @@ ___
 
 [Chapter 1](/01/README.md)
 
-[devices](#devices)
+[devices](#device-experiences)
 
 ___
 
@@ -243,7 +243,7 @@ ___
 
 <br><br><br>
 
-## Device experiences <a id="devices"></a>
+## Device experiences
 
 Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy sensibus. Ne vix hendrerit complectitur disputationi. Tempor alterum ancillae ex his, noster mandamus no eam. At nonumes verterem efficiantur mei. Usu te noluisse ocurreret, an his detracto recteque. Ex nec ubique pertinax disputando, eos ut mentitum adipisci delicata, noluisse adversarium vis et.
 
