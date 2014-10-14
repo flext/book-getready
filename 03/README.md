@@ -1,9 +1,9 @@
 <br><br><br><br><br><br><br><br>
-> Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy sensibus. *[Wikipedia](http://en.wikipedia.org/wiki/Information_architecture)*
+> “It just won’t work to build a complete system and then, in the final stages of development, spread the interface over it like peanut butter.” *[Clayton Lewis & John Rieman (1993!)](http://hcibib.org/tcuid/chap-0.html)*
 
 <br><br><br>
 
-# FLEXT
+# DATA-DRIVEN DESIGN
 
 Welcome in my book!
 
@@ -13,7 +13,7 @@ Let us know what you think. For technical issues, please consult the [Documentat
 
 ___
 
-**TABLE OF CONTENT**
+**CHAPTER OVERVIEW**
 
 [Overview](README.md)
 
@@ -39,11 +39,7 @@ Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy 
 
 ___
 
-**KNOW THY CUSTOMER**
-
-Customers favor ground clearance and better view afforded by high seating positions in sport utility vehicles. That comes with a higher loading lip of the trunk – good for small items but not for loading large or heavy items. Lowering the lip is an option but requires evidence: Are customers loading small or large items? What’s the impact on ground clearance in rough terrain?
-
-Answers to these questions affect much more than the loading lip. Targeting customers who mostly load small or light items, such as shopping bags, is fundamentally different from those who load large or heavy items, such as jackhammers. A seemingly trivial feature becomes a brand-defining moment not just for the product but for the product portfolio and the entire company.
+RECOMMENDED
 
 ___
 
@@ -70,4 +66,3 @@ ___
 
 [Back to top](#user-centered-design)
 <br><br><br>
-

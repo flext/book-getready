@@ -4,7 +4,7 @@
 <br><br><br><br><br><br><br><br>
 > “We put our introversive natures aside and fought for the sake of the people who trust us – our users.” *[UXPin CEO Marcin Treder](http://www.creativebloq.com/netmag/ux-design-start-ups-get-know-your-users-10126004)*
 
-<br><br>
+<br><br><br>
 
 # USER-CENTERED DESIGN
 
@@ -146,7 +146,7 @@ ___
 
 ## Industrial design
 
-**The framework.** 
+**The framework.**
 
 <br>
 
