@@ -1,12 +1,11 @@
 <br><br><br><br><br><br><br><br>
-
-> “People’s understanding of their service and their product is framed around this desktop and laptop experience.” *[Luke Wroblewski](http://www.uie.com/articles/mobile_as_medium)*
+> “People’s understanding of their service and their product is framed around this desktop and laptop experience.” *[Luke Wroblewski](http://www.uie.com/articles/mobile_as_medium/)*
 
 <br><br><br>
 
 # TOUCH-OPTIMIZED DESIGN
 
-**Familiar on any device**. FLEXT is flexible and extendable with adaptive IO elements to control apps on all devices in any way – touch, trackpad, mouse. FLEXT focuses on a few core IO elements, such as file browser, menus, widgets, and notifications, providing *consistent behavior* across all devices and uses.
+FLEXT is flexible and extendable with adaptive IO elements for all web-enabled devices – putting **touch first**. FLEXT focuses on a few core IO elements, such as file browser, menus, widgets, and notifications, providing *consistent behavior* across all devices and usages.
 
 <br>
 
@@ -14,7 +13,7 @@
 
 <br>
 
-**One job – many devices**. Use FLEXT to control touch-optimized workflows between installed and mobile devices, whether in the home, car, office, factory or elsewhere – anything from smartwatch, phone or in-car apps over desktop or kiosk applications to home or industrial control units (mouse, trackpad, or pen are supported).
+Use FLEXT for touch-optimized workflows between installed and mobile devices, whether in the home, car, office, factory or elsewhere – anything from smartwatch, phone or in-car apps over desktop or kiosk applications to home or industrial control units (mouse, trackpad, or pen are supported).
 
 <br>
 
@@ -42,17 +41,21 @@ ___
 
 [Flexible layouts](#flexible-layouts)
 
+
+
 ___
 
-<br><br><br>
+<br><br>
 
 ## Touch behavior
 
-**Touch first.** Touch is the interaction of choice for a growing number of software applications and their users. On the desktop, complex nested menus with too many levels can be implemented – but that doesn’t mean they should. Designing for touch affords more natural interaction. FLEXT is designed for touch – not just for mobile.
+**Touch first.** Touch is the interaction of choice for a growing number of software applications and their users. Nested menus with levels too hard to intuitively grasp are possible
+
+out of sync with the more natural interaction afforded by touch-based appliations.
 
 <br>
 
-> The boundaries between “desktop tasks” and “mobile tasks” are fluid, driven as much by the device’s convenience as they are by the ease of the task. *[Karen McGrane](http://alistapart.com/article/your-content-now-mobile)*
+> Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy sensibus. *[Wikipedia](http://en.wikipedia.org/wiki/Information_architecture)*
 
 <br>
 
@@ -100,8 +103,6 @@ Lorem ipsum dolor sit amet, audiam temporibus ullamcorper et quo, ex est nonumy 
 ___
 
 RECOMMENDED
-
-Too many mobile web experiences (like the Flickr and Basecamp examples we just looked at) start the conversation off with a list of navigation options instead of content ... A simple header tells you whose site you are on and relegates navigation options to a single action. The rest of the page is filled with timely content to check-in on
 
 ___
 
